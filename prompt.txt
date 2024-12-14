@@ -1,0 +1,47 @@
+
+Prompt 15:-
+Build a branding page showcasing a fashion brand's visual identity
+
+Prompt 14 :-
+Create a lead generation landing page for a consulting firm
+
+Prompt 13:-
+Design a movie advertisement poster using grid and flexbox layout
+
+Prompt 12 :-
+Build a stylish email subscription form with CSS transitions.
+
+Prompt 11:-
+Design a minimal brand guideline page for a consultancy firm
+
+Prompt 10 :-
+Create a portfolio page for a photographer using grid and flexbox.
+
+Prompt 9 :-
+Build a landing page for a tech conference, including a registration form.
+
+Prompt 8:-
+Create a digital marketing flyer for a Black Friday sale using HTML and CSS
+
+Prompt 7
+Design a simple landing page for a new mobile app with a download button.
+
+Prompt 6 :-
+Build a feedback form for an online service with validation using CSS
+
+
+
+Prompt 5 :-
+Create a mock brand website for a coffee shop focusing on typography and imagery.
+
+Prompt 4 :-
+Design a product advertisement flyer that looks like a physical brochure.
+
+Prompt 3 :-  
+Build a landing page for an NGO, emphasizing call-to-action buttons.
+
+prompt 2:-  
+Create a style guide for a travel company using custom fonts and colors.
+
+prompt 1:-  
+Design a landing page for a startup, ensuring mobile-first design principles.

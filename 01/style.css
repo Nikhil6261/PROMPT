@@ -1,0 +1,138 @@
+*{
+    padding: 0;margin: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.main{
+    width: 100%;
+    height: 100%;
+    background: url(wu-yi-sYhyE3CeTy4-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    /* background: linear-gradient(to right , rgb(226, 214, 214) , rgb(50, 50, 196) ); */
+    position: relative;
+    
+}
+
+
+nav{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content:space-between;
+    /* background-color: aqua; */
+align-items: center;
+padding: 3%;
+}
+
+.nav_r{
+display: flex;
+align-items: center;
+}
+
+.same {
+    text-decoration: none;
+    font-size: 1rem;
+    color: rgb(227, 223, 223);
+    /* background-color: aqua; */
+    
+}
+nav> .nav_r > i{
+    /* color: wheat; */
+    display: none;
+}
+
+.nav_r > a {
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+
+.nav_r > a:hover {
+    color: wheat;
+}
+
+.nav_r > .total > a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+padding: 25px;
+}
+
+
+.nav_r > .total > a:hover{
+    color: wheat;
+}
+.total >a{
+    display: none;
+}
+
+.mid{
+    width: 40%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+align-items: center;
+}
+
+.mid>h1{
+    color: rgb(227, 223, 223);
+font-size: 5rem;
+padding-top: 10%;
+padding-bottom: 3%;
+/* background-color: aliceblue; */
+}
+.mid>p{
+    margin-left: 14%;
+    color: rgb(227, 223, 223);
+font-size: 1.5rem;
+/* align-items: center; */
+}
+
+
+.mid>button{
+padding: 10px 30px;
+background-color: rgb(231, 245, 250);
+    color: black;
+    font-size: 20px;
+margin-right:25%;
+margin-top: 5%;
+border-radius: 25px;
+font-weight: 700;
+}
+
+
+.mid>button:hover{
+    font-weight: 700;
+    background-color: whitesmoke;
+        color: black;
+}
+
+.main > .links{
+    width: 20%;
+    height: 5%;
+display: flex;
+/* background-color: aqua; */
+padding-left: 2%;
+text-align: center;
+}
+
+.links>i{
+    /* padding-left: 15px; */
+    margin-left: 15px;
+
+    height: 40px;
+    width: 40px;
+    font-size: 1.5rem;
+color: rgb(227, 223, 223);
+background-color: aquamarine;
+border-radius: 20px;
+}
+
+
+

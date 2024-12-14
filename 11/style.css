@@ -1,0 +1,140 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.page1{
+    width: 100%;
+    height: 100%;
+    background: url(https://images.unsplash.com/photo-1640622658799-54e6039d189b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: center;
+}
+
+.root{
+    width: 100%;
+    height: 100%;
+   
+}
+
+nav{
+    align-items: center;
+    width: 85%;
+    height: 5%;
+    background-color:rgb(10,51,98);
+    color: rgb(227,205,176);
+padding: 2rem;
+margin-left: 7%;;
+border-radius: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav>h1{
+    text-transform: uppercase;
+}
+
+a{
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-right: 25px;
+    font-size:15px;
+    color: rgb(227,205,176);
+}
+
+a:nth-child(4){
+    color: whitesmoke;
+}
+
+
+.left{
+    margin-top: 10%;
+    margin-left: 10%;
+    width: 40%;
+    height: 50%;
+}
+
+.left >h1{
+    
+    font-size: 4rem;
+}
+
+.left>p{
+font-size: 15px;
+font-weight: 500;
+}
+
+
+.page2{
+    width: 100%;
+    height: 100%;
+    /* background-color: aqua; */
+    padding-left: 2%;
+}
+
+.page2>h1{
+    padding-top: 5%;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.page2 > .guide{
+    padding-top: 4%;
+    display: flex;
+    text-align: center;
+    width: 100%;
+}
+
+.page2 > .guide2{
+    padding-top: 4%;
+    display: flex;
+    text-align: center;
+    width: 100%; 
+}
+
+.same{
+    border: 2px solid wheat;
+    width: 30%;
+    border-radius: 15px;
+    padding: 2rem;
+    margin-left: 3rem;
+}
+
+.same > h2{
+    font-size: 1.7rem;
+padding-bottom: 20px;
+}
+
+.same > p{
+
+    font-size: 1rem;
+    padding-bottom: 20px;
+}
+.same > button{
+    position: relative;
+    
+    padding: 10px 30px;
+    /* background-color: black; */
+
+border-radius: 15px;
+text-transform: uppercase;
+background-color: rgba(34, 230, 223, 0.917);
+color: blue;
+}
+
+
+.button::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    width: 100px;
+background-color: black;
+}
