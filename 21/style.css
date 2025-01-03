@@ -1,0 +1,157 @@
+*{
+    padding: 0;margin: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+
+}
+
+.root{
+    width: 100%;
+    height: 100%;
+    background:url(https://plus.unsplash.com/premium_photo-1683121713210-97667d2e83c8?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+background-size: cover;
+/* object-fit: cover; */
+background-position: center;
+
+}
+
+
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+justify-content: center;
+gap: 2rem;
+
+}
+
+nav>a{
+text-decoration: none;
+margin-top: 1rem;
+    font-size: 1.5rem;
+text-transform: uppercase;
+color: wheat;
+}
+
+nav>a:hover{
+    color: skyblue;
+}
+
+.mid{
+    margin-top: 20rem;
+    width: 100%;
+    height: 40%;
+    display: flex;
+}
+
+.midleft{
+    width:45%;
+    height: 20rem;
+    /* background-color: azure; */
+}
+
+
+.midright{
+    width: 50%;
+    height: 100%;
+    color: wheat;
+/* background-color: aqua; */
+}
+
+.midright>h1{
+    font-size: 4rem;
+    line-height: 5rem;
+    text-align: center;
+    align-items: end;
+    
+}
+
+.midright>p{
+    margin-top: 1rem;
+    line-height: 2rem;
+    font-size: 1.5rem;
+    text-align: center;
+    word-spacing: .2rem;
+
+}
+
+
+.last{
+width: 100%;
+height: 200px;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+
+/* background-color: aqua; */
+}
+
+.left,.mid2,.right{
+    display: flex;
+    align-items: center;
+}
+
+img{
+    border: 2px solid gold;
+    width: 200px;
+    border-radius: 25px;
+height: 200px;
+backdrop-filter: blur(29px);
+}
+
+
+.buying {
+    
+    /* display: flex; */
+    flex-direction: row;
+    align-items: center;
+
+    /* justify-content: center; */
+
+}
+
+.buy {
+    display: inline-block;
+    width: 160px;
+    height: 60px; 
+    background-color: rgb(121, 39, 192);
+
+    color: wheat;
+    margin: 0px 5px;
+text-transform: uppercase;
+    /* pen */
+    border-radius: 25px;
+    overflow: hidden;  
+    transition: 0.3s ease-in-out;
+}
+
+
+ .icon {
+    width: 160px;
+    height: 60px;
+    background-color: rgb(182, 132, 232);
+    color: black;
+    text-transform: uppercase;
+    display: inline-block;
+    text-align: center;
+    border-radius: 25px;
+    box-sizing: border-box;
+    line-height: 50px;
+}
+
+
+ .icon i {
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+.root .buy:hover {
+    width: 200px;
+    border-radius: 50px;
+}
+
+

@@ -1,3 +1,29 @@
+Prompt 23:-
+Design a minimalistic landing page for a portfolio website
+
+Prompt 22:-
+Build a portfolio for an artist, emphasizing large images and gallery layout
+
+Prompt 21:-
+Create a landing page for a SaaS product with pricing tables
+
+Prompt 20 :-
+Design a portfolio for a UX designer with case studies using responsive design.
+
+Prompt 19:-
+Create an HTML advertisement for an online clothing store sale
+
+Prompt 18 :-
+Build a FAQ section with collapsible answers using only CSS
+
+Prompt 17 :-
+Create a user-friendly feedback form with CSS error handling and hints
+
+Prompt 16 :-
+Design a product gallery page for an e-commerce website with hover effects.
+
+
+
 
 Prompt 15:-
 Build a branding page showcasing a fashion brand's visual identity
@@ -14,8 +40,12 @@ Build a stylish email subscription form with CSS transitions.
 Prompt 11:-
 Design a minimal brand guideline page for a consultancy firm
 
+
+
 Prompt 10 :-
 Create a portfolio page for a photographer using grid and flexbox.
+
+
 
 Prompt 9 :-
 Build a landing page for a tech conference, including a registration form.
@@ -28,8 +58,6 @@ Design a simple landing page for a new mobile app with a download button.
 
 Prompt 6 :-
 Build a feedback form for an online service with validation using CSS
-
-
 
 Prompt 5 :-
 Create a mock brand website for a coffee shop focusing on typography and imagery.
