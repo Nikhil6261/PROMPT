@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url(https://images.pexels.com/photos/789376/pexels-photo-789376.jpeg);
+                background-size: cover;
+                /* object-fit: cover; */
+                background-repeat: no-repeat;
+                background-position: center;
+}
+
+nav{
+padding: 2rem;
+    width: 100%;
+    height: 8%;
+    /* background-color: aqua; */
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+
+.search{
+    width: 40rem;
+    height: 3rem;
+    border: 2px solid black;
+    display: flex;
+    border-radius: 25px;
+    align-items: center;
+    justify-content: space-around;
+backdrop-filter: blur(15px);
+}
+
+input{
+    background-color: transparent;
+    border-radius: 25px;
+    color: white;
+    font-weight: 600;
+    width: 30rem;
+    height: 2rem;
+    border: 0px;    
+}
+
+.search>i{
+    font-size: 2rem;
+    /* color: transparent; */
+}
+
+
+
+nav>a{
+    text-decoration: none;
+    font-size: 3rem;
+    color: wheat;
+}
+
+nav>i{
+    width: 4rem;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    /* text-align: center;   */
+    justify-content: center;
+    border-radius: 50%;
+    background-color: transparent;
+    font-size: 1.5rem;
+    
+    border: 1px solid black;
+backdrop-filter: blur(10px);
+    color: rgb(170, 147, 103);
+}
+
+.mid{
+    width: 100%;
+    height: 92%;
+display: flex;
+}
+
+.left{
+    width: 50%;
+    height: 100%;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: end;
+}
+
+.sml{
+    width: 50rem;
+    height: 30rem;
+    backdrop-filter: blur(10px);
+    border-top-right-radius: 25px;
+display: flex;
+text-align: center;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+line-height: 2rem;
+/* border: 1px solid black; */
+
+color: rgb(170, 147, 103);
+}
+
+.sml>p{
+    margin-top: 2rem;
+    line-height: 1rem;
+margin-bottom: 2rem;
+}
+button{
+    background-color: transparent;
+    width: 10rem;
+    height: 3rem;
+    border: 2px solid 
+rgb(170, 147, 103);;
+    border-radius: 25px;
+    text-transform: uppercase;
+    
+    color: rgb(170, 147, 103);
+}
+
+.sml>h1{
+    font-size: 3rem;
+}
+
+.sml>h1>span{
+    font-size: 2rem;
+}
+
+
+
+
+
+.right{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(33, 78, 78);
+}
