@@ -1,3 +1,41 @@
+Prompt 34:-
+Design a page highlighting a company's mission and vision
+
+Prompt 31:-
+Design a landing page for a hotel booking service with hover effects.
+
+Prompt 30:-
+Create a landing page for a tech conference, focusing on registration.
+
+Prompt 28:-
+Build a style guide for a new website, including typography and color rules
+
+Prompt 29:-
+Design a poster promoting a local concert using HTML and CSS only.
+
+
+Prompt 26:-
+Design a travel agency's digital poster with event details and countdown timer
+
+Prompt 25 :-
+Build a scrolling product advertisement banner using CSS
+
+Prompt 24 :-
+Create a webpage showcasing the design philosophy of a brand
+
+
+
+Prompt 33:-
+Create a product launch landing page for a new mobile app with responsive design.
+
+Prompt 32:-
+Build a landing page for a summer sale event with colorful visuals
+
+Prompt 27:-
+Create a portfolio for a graphic designer, focusing on visual elements
+ 
+
+
 Prompt 23:-
 Design a minimalistic landing page for a portfolio website
 
@@ -8,7 +46,7 @@ Prompt 21:-
 Create a landing page for a SaaS product with pricing tables
 
 Prompt 20 :-
-Design a portfolio for a UX designer with case studies using responsive design.
+Design a portfolio for a UX designer with case studies using responsive design.	
 
 Prompt 19:-
 Create an HTML advertisement for an online clothing store sale
@@ -21,9 +59,6 @@ Create a user-friendly feedback form with CSS error handling and hints
 
 Prompt 16 :-
 Design a product gallery page for an e-commerce website with hover effects.
-
-
-
 
 Prompt 15:-
 Build a branding page showcasing a fashion brand's visual identity
@@ -40,12 +75,8 @@ Build a stylish email subscription form with CSS transitions.
 Prompt 11:-
 Design a minimal brand guideline page for a consultancy firm
 
-
-
 Prompt 10 :-
 Create a portfolio page for a photographer using grid and flexbox.
-
-
 
 Prompt 9 :-
 Build a landing page for a tech conference, including a registration form.

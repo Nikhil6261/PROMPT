@@ -17,7 +17,6 @@ html,body {
 
 .faq {
     max-width: 600px;
-    /* width: 100%; */
     background: #fff;
     padding: 20px;
     border-radius: 8px;
@@ -40,7 +39,7 @@ html,body {
 }
 
 .faq-question {
-    /* margin: 0; */
+    
     font-size: 1.1em;
     cursor: pointer;
     padding: 10px;
@@ -48,7 +47,6 @@ html,body {
     border: none;
     width: 100%;
     text-align: left;
-    outline: none;
     font-weight: bold;
     transition: background 0.3s;
 }
@@ -68,7 +66,7 @@ html,body {
 
 .faq-question:focus + .faq-answer,
 .faq-question:active + .faq-answer {
-    max-height: 100px;
+    max-height: 200px;
 }
 
 .faq-answer p {

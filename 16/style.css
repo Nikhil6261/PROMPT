@@ -123,8 +123,9 @@ border-top-right-radius: 25px;
 
 }
 
-.p1:hover{
-    scale: 1.2;
+.p:hover{
+
+   scale: 1.1;
 }
 
 
