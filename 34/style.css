@@ -1,0 +1,119 @@
+*{
+padding: 0;
+margin: 0;
+ box-sizing : border-box; 
+ } 
+ 
+html,body{
+width: 100%;
+ height: 100%;
+}
+
+.hero{
+    width: 100%;
+ height: 100%;
+background-color:wheat ;
+
+}
+
+
+.vi{
+    width: 100%;
+    height: 30%;
+    /* background-color: rgb(132, 93, 42); */
+    display: flex;
+    align-items: center;
+
+    justify-content: space-between;
+}
+
+.vi>h1{
+    text-transform: uppercase;
+    font-size: 6rem;
+    margin-left: 15rem;
+    text-align: end;
+    margin-top: 15rem;
+}
+
+.vision{
+    width: 50%;
+height: 100%;
+
+border-top-left-radius:10rem;
+border-bottom-left-radius: 10rem;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+background-color: rgb(162, 215, 203);
+
+}
+
+.vision-con{
+    width: 60%;
+}
+
+.vision-con>h1{
+    font-size: 3rem;
+    color: rgb(35, 66, 159);
+}
+
+
+.vision-con>p{
+    font-size: 1.5rem;
+color: gray;
+}
+
+.img{
+    width: 30%;
+    height: 100%;
+    border-radius: 50%;
+    /* background-image: url(https://images.unsplash.com/photo-1698084068165-69a631a3ba1b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjMzfHx2aXNpb258ZW58MHx8MHx8fDA%3D); */
+    background-size: cover;
+    background-position: center;
+    background-color: black; 
+
+    border: 2px solid red;
+}
+
+.img1{
+    background-image: url(https://images.unsplash.com/photo-1698084068165-69a631a3ba1b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjMzfHx2aXNpb258ZW58MHx8MHx8fDA%3D);
+}
+
+
+.mission{
+    width: 50%;
+height: 30%;
+margin-top: 10rem;
+border-top-right-radius:10rem;
+border-bottom-right-radius: 10rem;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+
+background-color: rgb(162, 215, 203);
+
+}
+
+
+.mission-con{
+    width: 60%;
+    text-align: end;
+}
+
+.mission-con>h1{
+    font-size: 3rem;
+    color: rgb(35, 66, 159);
+}
+
+
+.mission-con>p{
+    font-size: 1.5rem;
+color: gray;
+}
+
+
+.img2{
+    background-image: url(https://images.unsplash.com/photo-1521316730702-829a8e30dfd0?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWlzc2lvbnxlbnwwfHwwfHx8MA%3D%3D);
+}
